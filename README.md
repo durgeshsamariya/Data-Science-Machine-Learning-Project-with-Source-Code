@@ -29,3 +29,9 @@ This repository contains articles, GitHub repos and Kaggle kernels which provide
 10. [Cookiecutter Data Science: How to Organize Your Data Science Project](https://www.kdnuggets.com/2018/07/cookiecutter-data-science-organize-data-project.html)
 
 ## Kaggle Kernels
+
+1. [Comprehensive data exploration with Python](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
+2. [Data ScienceTutorial for Beginners](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners)
+3. [Full Preprocessing Tutorial](https://www.kaggle.com/gzuidhof/full-preprocessing-tutorial)
+4. [Machine Learning Tutorial for Beginners](https://www.kaggle.com/kanncaa1/machine-learning-tutorial-for-beginners)
+5. [EDA To Prediction(DieTanic)](https://www.kaggle.com/ash316/eda-to-prediction-dietanic)
