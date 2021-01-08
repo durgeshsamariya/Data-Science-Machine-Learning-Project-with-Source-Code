@@ -35,3 +35,4 @@ This repository contains articles, GitHub repos and Kaggle kernels which provide
 3. [Full Preprocessing Tutorial](https://www.kaggle.com/gzuidhof/full-preprocessing-tutorial)
 4. [Machine Learning Tutorial for Beginners](https://www.kaggle.com/kanncaa1/machine-learning-tutorial-for-beginners)
 5. [EDA To Prediction(DieTanic)](https://www.kaggle.com/ash316/eda-to-prediction-dietanic)
+6. [Data Science Glossary on Kaggle](https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle)
