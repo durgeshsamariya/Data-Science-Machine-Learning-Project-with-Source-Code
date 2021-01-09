@@ -1,5 +1,9 @@
 # Data Science and Machine Learning Projects with source code
 
+[![GitHub stars](https://img.shields.io/github/stars/themlphdstudent/awesome-outlier-detection-resources.svg)](https://github.com/durgeshsamariya/Data-Science-Machine-Learning-Project-with-Source-Code/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/durgeshsamariya/awesome-outlier-detection-resources.svg?color=blue)](https://github.com/durgeshsamariya/Data-Science-Machine-Learning-Project-with-Source-Code/network)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 This repository contains articles, GitHub repos and Kaggle kernels which provides data science, machine learning projects with code.
 
 ## Machine Learning
