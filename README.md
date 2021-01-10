@@ -42,4 +42,6 @@ This repository contains articles, GitHub repos and Kaggle kernels which provide
 6. [Data Science Glossary on Kaggle](https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle)
 
 ## Contributions
-create a [pull request](https://github.com/durgeshsamariya/Data-Science-Machine-Learning-Project-with-Source-Code/pulls).
+All contributions are welcome. Create a [pull request](https://github.com/durgeshsamariya/Data-Science-Machine-Learning-Project-with-Source-Code/pulls) to add more projects with code or kaggle kernels.
+
+### Don't forget to hit the ⭐, If you like this repo.
