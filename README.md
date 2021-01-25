@@ -4,7 +4,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/durgeshsamariya/Data-Science-Machine-Learning-Project-with-Source-Code.svg?color=blue)](https://github.com/durgeshsamariya/Data-Science-Machine-Learning-Project-with-Source-Code/network)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This repository contains articles, GitHub repos and Kaggle kernels which provides data science, machine learning projects with code.
+This repository contains articles, GitHub repos and Kaggle kernels which provides data science and machine learning projects with code.
 
 ## Data Science
 
@@ -31,7 +31,7 @@ This repository contains articles, GitHub repos and Kaggle kernels which provide
 21. [Heart Disease - Classifications (Machine Learning)](https://www.kaggle.com/cdabakoglu/heart-disease-classifications-machine-learning)
 22. [🦉Birdcall Recognition: EDA and Audio FE](https://www.kaggle.com/andradaolteanu/birdcall-recognition-eda-and-audio-fe)
 23. [Coronavirus (COVID-19) Visualization & Prediction](https://www.kaggle.com/therealcyberlord/coronavirus-covid-19-visualization-prediction)
-
+24. [Santander EDA and Prediction](https://www.kaggle.com/gpreda/santander-eda-and-prediction)
 
 ## Contributions
 All contributions are welcome. Create a [pull request](https://github.com/durgeshsamariya/Data-Science-Machine-Learning-Project-with-Source-Code/pulls) to add more projects with code or kaggle kernels.
