@@ -32,7 +32,7 @@ This repository contains articles, GitHub repos and Kaggle kernels which provide
 22. [🦉Birdcall Recognition: EDA and Audio FE](https://www.kaggle.com/andradaolteanu/birdcall-recognition-eda-and-audio-fe)
 23. [Coronavirus (COVID-19) Visualization & Prediction](https://www.kaggle.com/therealcyberlord/coronavirus-covid-19-visualization-prediction)
 24. [Santander EDA and Prediction](https://www.kaggle.com/gpreda/santander-eda-and-prediction)
-
+25. [Houseing price predication using Flask ](https://github.com/Sharadgup/Bengaluru_Housing_Price_Predication_Python_website)
 ## Contributions
 All contributions are welcome. Create a [pull request](https://github.com/durgeshsamariya/Data-Science-Machine-Learning-Project-with-Source-Code/pulls) to add more projects with code or kaggle kernels.
 
